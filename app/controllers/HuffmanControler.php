@@ -35,7 +35,6 @@ class HuffmanControler {
     $this->binary_value();
     $this->huffman();
     $this->compress();
-//    var_dump($this);
   }
 
   private function count_occurences() {
